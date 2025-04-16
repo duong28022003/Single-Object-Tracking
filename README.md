@@ -7,10 +7,13 @@ SOT (Single Object Tracking) là một nhánh của bài toán Object Tracking, 
 ## Hướng tiếp cận
 
 ### 1. Histogram + MeanShift Tracker
+
 <p align="center">
 <img src="https://i.imgur.com/9sPueeC.png" alt="Histogram + MeanShift Tracker" width="600"/>
 </p>
+
 ### 2. DeepSORT + YOLO
+
 <p align="center">
 <img src="https://i.imgur.com/Vh6ObWm.png" alt="DeepSORT + YOLO" width="600"/>
 </p>
