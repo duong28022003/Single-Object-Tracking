@@ -12,7 +12,7 @@ SOT (Single Object Tracking) là một nhánh của bài toán Object Tracking, 
 
 ### 2. DeepSORT + YOLO
 
-<img src="path/to/deepsort_yolo_image.png" alt="DeepSORT + YOLO" width="600"/>
+<img src="https://i.imgur.com/Vh6ObWm.png" alt="DeepSORT + YOLO" width="600"/>
 
 > 📄 **Chi tiết các phương pháp** xem trong file `Report.pdf`.
 
