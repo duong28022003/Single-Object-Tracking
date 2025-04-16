@@ -36,15 +36,17 @@ SOT (Single Object Tracking) là một nhánh của bài toán Object Tracking, 
 - Đối với mỗi video (hay 1 chuỗi frames), tiến hành đo tỉ lệ thành công trên toàn bộ chuỗi.
 
 <p align="center">
-<img src="https://i.imgur.com/zqcUZ93.png" alt="evaluation" width="600"/>
+<img src="https://i.imgur.com/zqcUZ93.png" alt="metrics" width="600"/>
 </p>
-- 
 
 ## Kết quả
 
+- Nhìn chung, phương pháp sử dụng YOLO kết hợp deepSORT cho kết quả tốt hơn so với Histogram kết hợp MeanShift, với tỉ lệ thành công trung bình đạt **23.93%**
+- Một phần kết quả được thể hiện trong bảng dưới
 
-
-- Nhìn chung, phương pháp sử dụng YOLO kết hợp deepSORT cho kết quả tốt hơn so với Histogram kết hợp MeanShift, với tỉ lệ thành công trung bình đạt **23.93%** 
+<p align="center">
+<img src="https://i.imgur.com/CTpac6r.png" alt="evaluation" width="600"/>
+</p>
 
 🎥 Video minh họa kết quả:
 
