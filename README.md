@@ -34,4 +34,4 @@ SOT (Single Object Tracking) là một nhánh của bài toán Object Tracking, 
 
 🎥 Video minh họa kết quả:
 
-<video src="https://drive.google.com/file/d/1Dctf5bIuy3s3TOOLg6HqEg-4o1nlQLEG/view?usp=sharing" controls width="600"></video>
+![Tracking Result](tracking_result.gif)
