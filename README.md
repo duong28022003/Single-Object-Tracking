@@ -29,9 +29,20 @@ SOT (Single Object Tracking) là một nhánh của bài toán Object Tracking, 
 
 ---
 
-## Kết quả
+## Đánh giá 
 
 - Thực hiện đánh giá trên 29 sub-dataset khác nhau (bao gồm 20 tập của lớp mouse và 9 tập của lớp person)
+- Mỗi frame được tính là tracking thành công nếu chỉ số IoU (Intersection of Union) đạt trên ngưỡng 0.5.
+- Đối với mỗi video (hay 1 chuỗi frames), tiến hành đo tỉ lệ thành công trên toàn bộ chuỗi.
+
+<p align="center">
+<img src="https://i.imgur.com/zqcUZ93.png" alt="evaluation" width="600"/>
+</p>
+- 
+
+## Kết quả
+
+
 
 - Nhìn chung, phương pháp sử dụng YOLO kết hợp deepSORT cho kết quả tốt hơn so với Histogram kết hợp MeanShift, với tỉ lệ thành công trung bình đạt **23.93%** 
 
